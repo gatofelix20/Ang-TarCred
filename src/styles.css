@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background-image: url(./assets/imagenes/credi-card.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Potta One', cursive;
+}
+
+
+
